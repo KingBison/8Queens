@@ -1,4 +1,5 @@
 from util import *
+print("Test1234")
 
 grid = generateGrid()
 state_changes = 0
