@@ -1,5 +1,5 @@
 from util import *
-
+print("test")
 
 grid = generateGrid()
 state_changes = 0
