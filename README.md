@@ -8,3 +8,7 @@ every 1 is on a unique column,
 there are no diagonal conflicts
 
 This utilizes machine learning to find a randomized solution
+
+
+I used VS Code to run
+https://code.visualstudio.com/download
